@@ -10,7 +10,7 @@
 locale                   : #"en-US"
 title                    : "Pages"
 title_separator          : "-"
-name                     : JiahaiWang
+name                     : Jiahai Wang
 description              : #&description "personal description"
 url                      : "https://jiahaiwang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
