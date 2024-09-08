@@ -16,8 +16,8 @@ redirect_from:
 <!-- Chinese Version -->
 <div class="zh post-container">
 
-    <!--copied from markdown -->
-    <blockquote> Wir müssen wissen. Wir werden wissen. -------David Hilbert
+
+    <blockquote><p> Wir müssen wissen. Wir werden wissen. -------David Hilbert
     </p></blockquote>
 
     
