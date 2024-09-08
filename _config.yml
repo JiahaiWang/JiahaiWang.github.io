@@ -12,7 +12,7 @@ title                    : "Pages"
 title_separator          : "-"
 name                     : Jiahai Wang
 description              : #&description "personal description"
-url                      : "https://jiahaiwang.github.io"
+url                      : https://jiahaiwang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiahaiWang/JiahaiWang.github.io"
 
