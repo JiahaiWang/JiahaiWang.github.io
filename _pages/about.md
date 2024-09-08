@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepages"
+title: "Jiahai Wang's Homepages"
 author_profile: true
 redirect_from: 
   - /about/
