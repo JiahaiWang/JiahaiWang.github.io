@@ -27,12 +27,12 @@ redirect_from:
 These are my notes, 
 
 <ul>
-<li><a href="https://JiahaiWang/JiahaiWang.github.io/blob/master/%E5%B9%B3%E6%96%B9%E5%92%8C%E9%97%AE%E9%A2%98.pdf">平方和问题</a></li>
+<li><a href="https://JiahaiWang.github.io/blob/master/%E5%B9%B3%E6%96%B9%E5%92%8C%E9%97%AE%E9%A2%98.pdf">平方和问题</a></li>
 
-<li><a href="https://JiahaiWang/JiahaiWang.github.io/blob/master/Reciprocity_Law.pdf">Reciprocity Law</a></li>
+<li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
-<li><a href="https://JiahaiWang/JiahaiWang.github.io/blob/master/%E5%88%86%E5%9C%86%E5%A4%9A%E9%A1%B9%E5%BC%8F%E4%B8%8E%E5%88%86%E5%9C%86%E5%9F%9F.pdf">分圆多项式与分圆域</a></li>
-<li><a href="https://JiahaiWang/JiahaiWang.github.io/blob/master/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
+<li><a href="https://JiahaiWang.github.io/blob/master/%E5%88%86%E5%9C%86%E5%A4%9A%E9%A1%B9%E5%BC%8F%E4%B8%8E%E5%88%86%E5%9C%86%E5%9F%9F.pdf">分圆多项式与分圆域</a></li>
+<li><a href="https://JiahaiWang.github.io/blob/master/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
  </ul>
     
