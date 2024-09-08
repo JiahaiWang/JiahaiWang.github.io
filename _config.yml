@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://github.com/JiahaiWang/JiahaiWang.github.io/blob/master/29bdcc375af1208cb69d66da12bc60a.jpg
+  avatar           : "https://github.com/JiahaiWang/JiahaiWang.github.io/blob/master/29bdcc375af1208cb69d66da12bc60a.jpg"
   name             : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "HZNU"
