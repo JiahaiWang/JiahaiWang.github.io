@@ -12,16 +12,16 @@ title                    : "Pages"
 title_separator          : "-"
 name                     : JiahaiWang
 description              : #&description "personal description"
-url                      : https://jiahaiwang.github.io
+url                      : "https://jiahaiwang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://jiahaiwang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/JiahaiWang/JiahaiWang.github.io/blob/master/29bdcc375af1208cb69d66da12bc60a.jpg"
+  avatar           : https://github.com/JiahaiWang/JiahaiWang.github.io/blob/master/29bdcc375af1208cb69d66da12bc60a.jpg
   name             : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "HZNU"
