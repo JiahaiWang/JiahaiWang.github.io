@@ -31,7 +31,7 @@ These are my notes,
 
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
-<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域.pdf">分圆多项式与分圆域</a></li>
+<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">分圆多项式与分圆域(Cyclotomic Polynomial and Field)</a></li>
 <li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
  </ul>
