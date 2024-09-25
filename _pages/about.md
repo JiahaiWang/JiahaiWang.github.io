@@ -24,7 +24,7 @@ redirect_from:
 <p>Hi, my name is Jiahai Wang,  I am interested in number theory. </p>
 
 
-These are my notes,   
+These are my notes, <br>
 
 
 Analytic number theory
