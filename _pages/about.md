@@ -26,8 +26,8 @@ redirect_from:
 
 These are my notes, 
 
+\\
 Analytic number theory
-
 <ul>
 <li><a href=""> Averages of Arithmetical Functions </a></li>
 
