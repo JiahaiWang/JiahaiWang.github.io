@@ -21,10 +21,39 @@ redirect_from:
     </p></blockquote>
 
     
-<p>Hi, my name is Jiahai Wang,  I am interested in number theory.</p>
+<p>Hi, my name is Jiahai Wang,  I am interested in number theory. </p>
 
 
 These are my notes, 
+
+Analytic number theory
+<li><a href=""> Averages of Arithmetical Functions </a></li>
+
+<li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
+
+<li><a href=""> Finite Abelian Groups and Their Characters  </a></li>
+
+
+
+L-function
+
+<li><a href="">Dirichlet L-function</a></li>
+
+<li><a href="">Hecke L-function</a></li>
+
+<li><a href="">Artin L-function </a></li>
+
+algebra
+
+<li><a href="">Slyow Theorem applications </a></li>
+
+<li><a href="">Trace and Norm </a></li>
+
+<li><a href="">Dedekind Ring</a></li>
+
+<li><a href="">compute galois groups </a></li>
+
+others 
 
 <ul>
 <li><a href="https://JiahaiWang.github.io/%E5%B9%B3%E6%96%B9%E5%92%8C%E9%97%AE%E9%A2%98.pdf">平方和问题</a></li>
@@ -32,7 +61,6 @@ These are my notes,
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
 <li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">分圆多项式与分圆域(Cyclotomic Polynomial and Field)</a></li>
-<li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
  </ul>
     
