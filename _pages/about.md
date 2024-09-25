@@ -27,25 +27,29 @@ redirect_from:
 These are my notes, 
 
 Analytic number theory
+
+<ul>
 <li><a href=""> Averages of Arithmetical Functions </a></li>
 
 <li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
 <li><a href=""> Finite Abelian Groups and Their Characters  </a></li>
-
+ </ul>
 
 
 L-function
-
+<ul>
 <li><a href="">Dirichlet L-function</a></li>
 
 <li><a href="">Hecke L-function</a></li>
 
 <li><a href="">Artin L-function </a></li>
+ </ul>
+
 
 algebra
-
-<li><a href="">Slyow Theorem applications </a></li>
+<ul>
+<li><a href="">Slyow Theorem applications(单群的判断）</a></li>
 
 <li><a href="">Trace and Norm </a></li>
 
@@ -53,6 +57,11 @@ algebra
 
 <li><a href="">compute galois groups </a></li>
 
+
+<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">分圆多项式与分圆域(Cyclotomic Polynomial and Field)</a></li>
+
+ </ul>
+ 
 others 
 
 <ul>
@@ -60,7 +69,6 @@ others
 
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
-<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">分圆多项式与分圆域(Cyclotomic Polynomial and Field)</a></li>
 
  </ul>
     
