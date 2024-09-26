@@ -35,7 +35,7 @@ Analytic number theory
 
 <li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
-<li><a href=""> Finite Abelian Groups and Their Characters  </a></li>
+<li><a href=""> Characters  </a></li>
  </ul>
 
 
@@ -47,6 +47,8 @@ L-function
 <li><a href="">Hecke L-function</a></li>
 
 <li><a href="">Artin L-function </a></li>
+
+<li><a href="">p-adic L-function </a></li>
  </ul>
 
 
@@ -56,7 +58,7 @@ algebra
 
 <li><a href="">Trace and Norm </a></li>
 
-<li><a href="">Dedekind Ring</a></li>
+<li><a href="">Dedekind Ring and Nother Ring</a></li>
 
 <li><a href="">compute galois groups </a></li>
 
