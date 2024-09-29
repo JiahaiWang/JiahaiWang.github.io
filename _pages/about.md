@@ -31,7 +31,8 @@ Analytic number theory
 
 <ul>
   
-<li><a href=""> Averages of Arithmetical Functions </a></li>
+<li><a href="https://JiahaiWang.github.io
+/Averages_of_Arithmetical_Functions(1).pdf"> Averages of Arithmetical Functions </a></li>
 
 <li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
@@ -42,7 +43,7 @@ Analytic number theory
 L-function
 
 <ul>
-<li><a href="">Dirichlet L-function</a></li>
+<li><a href="https://Dirichlet_L__functions.pdf">Dirichlet L-function</a></li>
 
 <li><a href="">Hecke L-function</a></li>
 
