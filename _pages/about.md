@@ -43,10 +43,13 @@ L-function
 
 <ul>
 <li><a href="https://JiahaiWang.github.io/Dirichlet_L__functions.pdf">Dirichlet L-function</a></li>
+  
+<li><a href="">	Analytic class number formula </a></li>
 
 <li><a href="">Hecke L-function</a></li>
 
 <li><a href="">Artin L-function </a></li>
+
 
 <li><a href="">p-adic L-function </a></li>
  </ul>
