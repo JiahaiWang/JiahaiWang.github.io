@@ -74,11 +74,12 @@ algebra
 others 
 
 <ul>
+  
 <li><a href="https://JiahaiWang.github.io/%E5%B9%B3%E6%96%B9%E5%92%8C%E9%97%AE%E9%A2%98.pdf">平方和问题</a></li>
 
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
 <li><a href="https://JiahaiWang.github.io/Hilbert_Space.pdf"> Hilbert Space
 
- </ul>
+</ul>
     
