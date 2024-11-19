@@ -79,7 +79,6 @@ others
 
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
-<li><a href="https://JiahaiWang.github.io/Hilbert_Space.pdf"> Hilbert Space
-
-</ul>
+<li><a href="https://JiahaiWang.github.io/Hilbert_Space.pdf"> Hilbert Space</a></li>
+ </ul>
     
