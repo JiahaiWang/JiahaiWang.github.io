@@ -35,7 +35,7 @@ Analytic number theory
 
 <li><a href="https://JiahaiWang.github.io/From%20Partition%20to%20Automorphic%20forms.pdf">From Partition to Automorphic forms</a></li>
 
-<li><a href="https://JiahaiWang.github.io/Mertens_s_Theorems.pdf">Mertens's Theorems.pdf</a></li>
+<li><a href="https://JiahaiWang.github.io/Mertens_s_Theorems.pdf">Mertens's Theorems</a></li>
 
 <li><a href=""> Characters  </a></li>
  </ul>
