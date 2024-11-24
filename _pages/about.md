@@ -68,9 +68,7 @@ algebra
 <li><a href="">compute galois groups </a></li>
 
 
-<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">分圆多项式与分圆域(Cyclotomic Polynomial and Field)
-
-</a></li>
+<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">Cyclotomic Polynomial and Field </a></li>
 
  </ul>
  
