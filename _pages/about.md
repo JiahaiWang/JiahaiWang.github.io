@@ -68,7 +68,7 @@ others
 
 <li><a href="https://JiahaiWang.github.io/Hilbert_Space.pdf"> Hilbert Space</a></li>
 
-<li><a href=""> 丘赛随机过程历年题参考答案 </a></li>
+<li><a href=""> 丘赛历年随机过程个人参考答案 </a></li>
 
 
 
