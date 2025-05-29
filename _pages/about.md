@@ -47,39 +47,30 @@ L-function
 <ul>
 <li><a href="https://JiahaiWang.github.io/Dirichlet_L__functions.pdf">Dirichlet L-function</a></li>
   
-<li><a href="">	Analytic class number formula </a></li>
-
-<li><a href="">Hecke L-function</a></li>
-
-<li><a href="">Artin L-function </a></li>
-
-<li><a href="">p-adic L-function </a></li>
- </ul>
-
-
-algebra
-<ul>
-<li><a href="">Slyow Theorem applications(单群的判断）</a></li>
-
-<li><a href="">Trace and Norm </a></li>
-
-<li><a href="">Dedekind Ring and Nother Ring</a></li>
-
-<li><a href="">compute galois groups </a></li>
-
-
-<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">Cyclotomic Polynomial and Field </a></li>
+<li><a href="">	Dirichlet L-function （Beamer）</a></li>
 
  </ul>
+
+
+
+
  
 others 
 
 <ul>
-  
+
+<li><a href="https://JiahaiWang.github.io/分圆多项式和分圆域_Cyclotomic_Polynomial_and_Field_.pdf">Cyclotomic Polynomial and Field </a></li>
+
+
 <li><a href="https://JiahaiWang.github.io/平方和问题.pdf">平方和问题</a></li>
 
 <li><a href="https://JiahaiWang.github.io/Reciprocity_Law.pdf">Reciprocity Law</a></li>
 
 <li><a href="https://JiahaiWang.github.io/Hilbert_Space.pdf"> Hilbert Space</a></li>
+
+<li><a href=""> 丘赛随机过程历年题参考答案 </a></li>
+
+
+
  </ul>
     
