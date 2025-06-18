@@ -47,7 +47,7 @@ L-function
 <ul>
 <li><a href="https://JiahaiWang.github.io/Dirichlet_L__functions.pdf">Dirichlet L-function</a></li>
   
-<li><a href="">	Dirichlet L-function （Beamer）</a></li>
+<li><a href="https://JiahaiWang.github.io/L_function_1 (1).pdf">	Dirichlet L-function （Beamer）</a></li>
 
  </ul>
 
